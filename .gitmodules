@@ -1,0 +1,12 @@
+[submodule "Inquisitor"]
+	path = Inquisitor
+	url = https://github.com/Falitomal/inquisitor
+[submodule "ft_onion-Tor"]
+	path = ft_onion-Tor
+	url = https://github.com/Falitomal/ft_onion
+[submodule "Irondome"]
+	path = Irondome
+	url = https://github.com/Falitomal/Iron-dome
+[submodule "Vaccine"]
+	path = Vaccine
+	url = https://github.com/Falitomal/Vaccine
